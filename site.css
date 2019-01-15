@@ -1,0 +1,29 @@
+textarea {
+    margin: 10px 0 10px 10px;
+}
+
+.search-button {
+    margin: 10px 0 10px 15px;
+}
+
+.delete-button {
+    margin: 10px 0 10px 15px;
+    color: red;
+}
+
+.search-div {
+    background-color: hsl(197, 100%, 74%);
+    margin: 0 0 20px 0;
+    border: solid;
+    border-width: 2px;
+}
+
+.navbar {
+    background: hsl(197, 100%, 74%);
+    border-bottom: solid;
+    border-width: 2px;
+}
+
+#main {
+    margin-top: 20px;
+}
