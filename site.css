@@ -1,25 +1,30 @@
 textarea {
     margin: 10px 0 10px 10px;
+    border-radius: 5px;
 }
 
 .search-button {
     margin: 10px 0 10px 15px;
+    border-radius: 5px;
 }
 
 .delete-button {
     margin: 10px 0 10px 15px;
     color: red;
+    border-radius: 5px;
 }
 
 .search-div {
-    background-color: hsl(197, 100%, 74%);
+    background-color: hsl(204, 76%, 53%);
     margin: 0 0 20px 0;
     border: solid;
-    border-width: 2px;
+    border-width: 1px;
+    padding-right: 10px;
+    border-radius: 5px;
 }
 
 .navbar {
-    background: hsl(197, 100%, 74%);
+    background: hsl(204, 76%, 53%);
     border-bottom: solid;
     border-width: 2px;
 }
